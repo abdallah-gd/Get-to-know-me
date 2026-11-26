@@ -69,8 +69,8 @@ I enjoy problem-solving, exploring new technologies, and turning ideas into work
 
 ### 📫 Connect With Me
 
-- **GitHub:** [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- **LinkedIn:** [Your LinkedIn](YOUR_LINKEDIN_LINK)
+- **GitHub:** [@YOUR_USERNAME](https://github.com/abdallah-gd)
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/abd-allah-gaad-a06a30343/)
 - **Email:** YOUR_EMAIL
 
 ---
